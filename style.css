@@ -1,0 +1,101 @@
+
+
+body {
+	background-image: url("photo de profil/Pierre.jpg");
+}
+
+
+h1 {
+	font-size: 60px
+	font-family: 'Mukta', sans-serif;
+}
+
+
+h2 {
+	font-size: 40px;
+	color: darksalmon;
+	font-family: 'Indie Flower', cursive;
+
+}
+
+li {
+	font-size: 35px;
+	color: white;
+	font-family: 'Mukta', sans-serif;
+}
+
+img {width: 200px;
+border-radius: 90%;
+}
+
+ul {padding: 0px}
+
+ul > li {display: inline}
+
+i{
+	color: red;
+	font-size: 50px;
+}
+
+a {
+   text-decoration: none;
+}
+
+
+
+h3 {
+	font-size: 20px;
+	color: white;
+	font-family: 'Indie Flower', cursive;
+	}
+
+
+.section {
+	background-color: rgba(250,250,250,0.4);
+	box-shadow: 1px 10px 30px rgb(220,220,220);
+	width: 900px;
+	margin: 20px auto; 
+	font-size: 50px;
+}
+
+.hugo:hover{
+	color: darksalmon;
+	width: 130px;
+}
+
+.btn{
+	background-color: black;
+	border-radius: 5px;
+	padding: 8px 10px;
+	width: 250px;
+
+}
+
+.btn:hover{
+	background-color: white;
+}
+
+.Bienvenu{
+	font-family: 'Indie Flower', cursive;
+font-family: 'Bungee', cursive;
+font-size: 100px;
+}
+
+
+.list {
+	color: black;
+	font-size: 35px;
+}
+
+#logo {
+
+}
+
+#logo:hover{
+	color: white;
+}
+
+
+
+
+
